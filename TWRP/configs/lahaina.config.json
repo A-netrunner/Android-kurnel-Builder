@@ -5,11 +5,11 @@
             "Branch": "12.1"
         },
         "Device": {
-            "Repo": "https://codeberg.org/DogDayAndroid/twrp_device_xiaomi_thyme",
+            "Repo": "https://github.com/A-netrunner/android",
             "Branch": "android-13",
-            "Location": "device/xiaomi/thyme",
-            "DeviceName": "thyme",
-            "Makefile": "twrp_thyme",
+            "Location": "device/realme/lahaina",
+            "DeviceName": "lahaina",
+            "Makefile": "twrp_lahaina",
             "BootPartition": "boot"
         }
     }
