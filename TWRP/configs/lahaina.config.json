@@ -5,11 +5,11 @@
             "Branch": "12.1"
         },
         "Device": {
-            "Repo": "https://github.com/A-netrunner/android",
-            "Branch": "android-13",
-            "Location": "device/realme/lahaina",
-            "DeviceName": "lahaina",
-            "Makefile": "twrp_lahaina",
+            "Repo": "https://github.com/A-netrunner/RMX3461_recovery_tree",
+            "Branch": "android-12.1",
+            "Location": "device/realme/rmx3461",
+            "DeviceName": "rmx3461",
+            "Makefile": "twrp_rmx3461",
             "BootPartition": "boot"
         }
     }
